@@ -1,1 +1,7 @@
 /target
+
+database/spending.db
+
+.envrc
+.envrc*
+!.envrc.sample
