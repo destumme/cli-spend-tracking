@@ -1,7 +1,9 @@
 use crate::app::App;
 
 mod app;
+mod components;
 mod config;
+mod data;
 
 fn main() -> color_eyre::Result<()> {
     color_eyre::install()?;

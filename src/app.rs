@@ -11,7 +11,6 @@ use crate::config::Config;
 
 #[derive(Debug)]
 pub struct App {
-    /// Is the application running?
     running: bool,
     config: Config,
 }
