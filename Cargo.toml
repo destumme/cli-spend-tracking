@@ -13,7 +13,7 @@ color-eyre = "0.6.3"
 sqlite = "0.37.0"
 
 [dependencies.uuid]
-version = "1.18.0"
+version = "1.18.1"
 features = [
     "v7",
 ]
